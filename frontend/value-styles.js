@@ -44,7 +44,7 @@ module.exports = {
   },
 
   empty: {
-    color: '#777',
+    color: '#AA00AA',
   },
 
 };

@@ -88,6 +88,7 @@ var styles = {
 
   rightPane: {
     display: 'flex',
+		background: 'white',
   },
 
   leftPane: {

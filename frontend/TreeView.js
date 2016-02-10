@@ -97,7 +97,7 @@ var styles = {
     display: 'flex',
     flexDirection: 'column',
     minHeight: 0,
-
+		background: 'white',
     WebkitUserSelect: 'none',
     MozUserSelect: 'none',
     userSelect: 'none',
@@ -106,7 +106,8 @@ var styles = {
     padding: 3,
     overflow: 'auto',
     minHeight: 0,
-    flex: 1,
+		flex: 1,
+		background: 'white'
   },
 };
 
